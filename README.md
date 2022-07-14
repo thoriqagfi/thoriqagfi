@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Agfi 👋
 
+- Informatics Engineering at Sepuluh Nopember Institute of Technology
 <!--
 **thoriqagfi/thoriqagfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
