@@ -1,7 +1,4 @@
-<p align="center">
-
 ### Hi there, I am Agfi Hermawan 👋
-</p>
 ----------------------------------------------------------------
 
 - Informatics Engineering at Sepuluh Nopember Institute of Technology
