@@ -1,3 +1,9 @@
+<div align="center">
+  <h1>Hi, there, I'm Thariq Agfi Hermawan</h1>
+</div>
+
+
+
 ### Hi there, I am Agfi Hermawan 👋
 ----------------------------------------------------------------
 
