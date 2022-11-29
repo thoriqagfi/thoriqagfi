@@ -38,6 +38,9 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />
   </div><br>
 
-<!-- WAKATIME SECTION -->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%208%20mins-blue)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=thoriqagfi&color=green" alt="Views on Github" />
+</div>
