@@ -18,12 +18,20 @@
 - Currently working on Web Development
 - Highly interested in Web Development, Development Operations, and Data
 
-***Preview Information***
+***Statistics***
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoriqagfi&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoriqagfi&theme=dark)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoriqagfi&layout=compact&&theme=chartreuse-dark&langs_count=8)](https://github.com/thoriqagfi)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thoriqagfi&show_icons=true&theme=chartreuse-dark)
+<div align="center">
+  <div style="display: flex;">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=thoriqagfi&theme=chartreuse-dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoriqagfi&layout=compact&&theme=chartreuse-dark&langs_count=8)](https://github.com/thoriqagfi"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=thoriqagfi&show_icons=true&theme=chartreuse-dark"/>
+  </div>
+</div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thoriqagfi&layout=compact&&theme=chartreuse-dark&langs_count=8)](https://github.com/thoriqagfi)
+< ![Agfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=thoriqagfi&show_icons=true&theme=chartreuse-dark) -->
 
 ***Languages, Tools, and Skills 🛠***
 
