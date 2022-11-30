@@ -18,6 +18,9 @@
 - Currently working on Web Development
 - Highly interested in Web Development, Development Operations, and Data
 
+***Preview Information***
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoriqagfi&theme=dark)](https://git.io/streak-stats)
+
 ***Languages, Tools, and Skills 🛠***
 
   <div align="center">
