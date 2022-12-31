@@ -54,7 +54,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2055%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -115,7 +115,7 @@ TypeScript               2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2022 10:14:51 UTC
+ Last Updated on 31/12/2022 12:24:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
