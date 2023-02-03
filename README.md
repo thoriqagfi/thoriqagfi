@@ -54,7 +54,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2019%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -85,13 +85,15 @@ Sunday       69 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               44 mins             ███████████████████░░░░░░   78.0% 
+HTML                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   22.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+itsexpo-frontend         44 mins             ███████████████████░░░░░░   78.0% 
+ITS EXPO                 12 mins             █████░░░░░░░░░░░░░░░░░░░░   22.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  56 mins             █████████████████████████   100.0%
 
 ```
 
@@ -108,7 +110,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2023 18:18:34 UTC
+ Last Updated on 03/02/2023 20:15:53 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
