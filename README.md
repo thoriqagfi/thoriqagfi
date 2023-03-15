@@ -54,7 +54,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-201%20hrs%2055%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -114,7 +114,7 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/03/2023 10:15:35 UTC
+ Last Updated on 15/03/2023 12:27:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
