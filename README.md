@@ -54,7 +54,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%209%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -114,7 +114,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2023 16:18:53 UTC
+ Last Updated on 13/04/2023 18:17:54 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
