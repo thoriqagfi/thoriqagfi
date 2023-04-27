@@ -54,7 +54,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2053%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -110,7 +110,7 @@ Go                       3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2023 08:18:43 UTC
+ Last Updated on 27/04/2023 10:16:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
