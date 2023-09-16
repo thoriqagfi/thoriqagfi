@@ -54,7 +54,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2036%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -113,7 +113,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2023 06:18:22 UTC
+ Last Updated on 16/09/2023 08:17:34 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
