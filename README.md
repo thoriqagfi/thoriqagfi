@@ -83,14 +83,13 @@ Sunday                   468 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 19 mins        ████████████████████████░   97.88 % 
-JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-thoriqagfi               1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 21 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +105,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2024 18:18:19 UTC
+ Last Updated on 28/01/2024 20:15:42 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
