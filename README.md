@@ -54,7 +54,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-882%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2025%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -83,13 +83,13 @@ Sunday                   468 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               25 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+spasial-2024-fe          25 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -105,7 +105,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2024 18:19:46 UTC
+ Last Updated on 29/01/2024 20:17:22 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
