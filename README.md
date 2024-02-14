@@ -54,7 +54,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-896%20hrs%2035%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -110,7 +110,7 @@ Python                   6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2024 12:27:30 UTC
+ Last Updated on 14/02/2024 14:16:58 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
