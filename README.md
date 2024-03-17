@@ -17,6 +17,7 @@
 - Studying at Informatics Engineering at Sepuluh Nopember Institute of Technology
 - Currently working on Web Development
 - Highly interested in Web Development, Development Operations, and Data
+- Check my portfolio on : https://thoriq-agfi.vercel.app/
 
 ***Statistics***
 
