@@ -84,13 +84,13 @@ Sunday                   521 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C++                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-algorithm-exercise       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +106,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2024 18:21:09 UTC
+ Last Updated on 29/04/2024 20:18:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
