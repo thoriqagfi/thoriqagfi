@@ -55,7 +55,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-939%20hrs%2017%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -113,7 +113,7 @@ Swift                    4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2024 16:20:26 UTC
+ Last Updated on 17/05/2024 18:22:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
