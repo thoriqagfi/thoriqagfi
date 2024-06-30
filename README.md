@@ -84,13 +84,13 @@ Sunday                   438 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Swift                    5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FlourishApp              5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +106,7 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2024 18:22:56 UTC
+ Last Updated on 30/06/2024 20:18:27 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
