@@ -55,7 +55,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2059%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -84,13 +84,17 @@ Sunday                   438 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               21 mins             ███████████████████████░░   92.10 % 
+Swift                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+thoriq-agfi              21 mins             ███████████████████████░░   93.56 % 
+FlourishApp              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +110,7 @@ Python                   6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2024 18:23:30 UTC
+ Last Updated on 05/07/2024 20:20:27 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
