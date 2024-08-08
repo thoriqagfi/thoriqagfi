@@ -84,15 +84,13 @@ Sunday                   453 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 13 mins       █████████████████████████   99.10 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-geosentric-fe            2 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,7 +106,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2024 18:25:11 UTC
+ Last Updated on 08/08/2024 20:20:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
