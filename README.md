@@ -84,14 +84,13 @@ Sunday                   500 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     12 mins             ███████████████████░░░░░░   76.24 % 
-Other                    4 mins              ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-LECAl                    16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,7 +106,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2024 18:24:59 UTC
+ Last Updated on 27/08/2024 20:21:33 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
