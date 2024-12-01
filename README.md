@@ -55,8 +55,6 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2023%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -108,7 +106,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2024 16:24:29 UTC
+ Last Updated on 01/12/2024 18:27:39 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
