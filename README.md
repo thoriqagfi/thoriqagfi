@@ -84,14 +84,13 @@ Sunday                   687 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       █████████████████████████   99.59 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-newtn-website            3 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      3 hrs 12 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -107,7 +106,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2025 18:28:44 UTC
+ Last Updated on 24/02/2025 20:24:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
