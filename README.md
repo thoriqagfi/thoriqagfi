@@ -55,7 +55,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C064%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C069%20hrs%204%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,13 +84,16 @@ Sunday                   687 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 10 mins       █████████████████████████   99.80 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+e03-select-socketserver-a4 hrs 5 mins        ████████████████████████░   97.67 % 
+tugas-clustering-thoriqag5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +109,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2025 18:30:31 UTC
+ Last Updated on 24/03/2025 20:22:57 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
