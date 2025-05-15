@@ -55,7 +55,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C084%20hrs%2041%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -84,13 +84,15 @@ Sunday                   721 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       20 mins             ████████████████████████░   95.30 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+myapp                    18 mins             █████████████████████░░░░   83.90 % 
+Unknown Project          3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -106,7 +108,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2025 18:31:50 UTC
+ Last Updated on 15/05/2025 20:27:12 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
