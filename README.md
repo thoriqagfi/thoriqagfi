@@ -55,7 +55,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2043%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -113,7 +113,7 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2025 08:26:27 UTC
+ Last Updated on 24/05/2025 10:23:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
