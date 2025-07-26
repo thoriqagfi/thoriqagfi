@@ -55,7 +55,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C300%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C295%20hrs%2034%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -112,7 +112,7 @@ C                        2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2025 16:28:51 UTC
+ Last Updated on 26/07/2025 18:33:16 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
