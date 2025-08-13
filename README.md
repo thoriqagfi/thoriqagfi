@@ -24,8 +24,11 @@
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thoriqagfi&theme=dark)](https://git.io/streak-stats) -->
 
 <div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=thoriqagfi&theme=chartreuse-dark"/>
+</div>
+
+<div align="center">
   <div style="display: flex;">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=thoriqagfi&theme=chartreuse-dark"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoriqagfi&layout=compact&theme=chartreuse-dark&langs_count=8" />
     <img src="https://github-readme-stats.vercel.app/api?username=thoriqagfi&show_icons=true&theme=chartreuse-dark"/>
   </div>
