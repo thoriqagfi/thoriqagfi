@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C401%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C396%20hrs%2023%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -117,7 +117,7 @@ Jupyter Notebook         6 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2025 16:30:04 UTC
+ Last Updated on 27/08/2025 18:32:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
