@@ -58,8 +58,6 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C469%20hrs%209%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -115,7 +113,7 @@ Java                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 16:25:30 UTC
+ Last Updated on 20/09/2025 18:28:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
