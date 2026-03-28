@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C766%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C767%20hrs%2049%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -87,14 +87,14 @@ Sunday                   518 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    2 hrs 31 mins       ██████████████░░░░░░░░░░░   56.26 % 
-Figma Design             1 hr 57 mins        ███████████░░░░░░░░░░░░░░   43.74 % 
+Other                    3 hrs 38 mins       ████████████████░░░░░░░░░   65.01 % 
+Figma Design             1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   34.99 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 28 mins       █████████████████████████   100.00 % 
+Unknown Project          5 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -110,7 +110,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2026 18:47:43 UTC
+ Last Updated on 28/03/2026 20:36:29 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
