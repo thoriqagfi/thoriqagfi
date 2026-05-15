@@ -58,8 +58,6 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs%206%20mins-blue?style=flat)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -116,7 +114,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 14:23:50 UTC
+ Last Updated on 15/05/2026 17:40:59 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
