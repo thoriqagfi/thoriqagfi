@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C907%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C909%20hrs%2040%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -87,13 +87,20 @@ Sunday                   646 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 11 mins       ██████████████████████░░░   88.53 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+thoriqagfi-portfolio     1 hr 39 mins        ███████████░░░░░░░░░░░░░░   45.93 % 
+garam-capkapal           1 hr 26 mins        ██████████░░░░░░░░░░░░░░░   39.81 % 
+gbi-gibeon-mobile-app    30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -109,7 +116,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 17:34:28 UTC
+ Last Updated on 22/07/2026 19:33:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
