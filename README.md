@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C919%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%208%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -87,20 +87,21 @@ Sunday                   647 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 32 mins       ███████████████████░░░░░░   75.30 % 
-Markdown                 29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-HTML                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               4 hrs 42 mins       ████████████████░░░░░░░░░   65.96 % 
+PHP                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Markdown                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Figma Design             25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
 
 🐱‍💻 Projects: 
-thoriqagfi-portfolio     3 hrs 33 mins       ███████████████████░░░░░░   75.93 % 
-garam-capkapal           33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-gbi-gibeon-mobile-app    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+thoriqagfi-portfolio     3 hrs 35 mins       █████████████░░░░░░░░░░░░   50.28 % 
+susanti-megah-fe         1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
+garam-capkapal-api-old   35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+garam-capkapal           35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 💻 Operating System: 
-Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +117,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:26:11 UTC
+ Last Updated on 26/07/2026 21:14:35 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
