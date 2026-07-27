@@ -58,7 +58,9 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C923%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C651%20hrs%2024%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -104,6 +106,29 @@ Unknown Project          26 mins             ██░░░░░░░░░�
 Mac                      7 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 59 mins (70.06%)
+
+✍️ 1,050 lines written by AI, 33 lines written by hand (96.95% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 66 AI Prompts
+
+Gemini                   1,110 lines         █████████████████████████   99.55 % 
+Opus                     5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.95% of written lines came from AI
+📝 Concise Prompter — average 491 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 8.15% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -117,7 +142,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:48:39 UTC
+ Last Updated on 27/07/2026 18:00:22 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
