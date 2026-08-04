@@ -65,21 +65,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1348 commits        ███████░░░░░░░░░░░░░░░░░░   26.72 % 
-🌆 Daytime                1352 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-🌃 Evening                1593 commits        ████████░░░░░░░░░░░░░░░░░   31.58 % 
-🌙 Night                  751 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+🌞 Morning                1349 commits        ███████░░░░░░░░░░░░░░░░░░   26.73 % 
+🌆 Daytime                1352 commits        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌃 Evening                1594 commits        ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌙 Night                  751 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   847 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Tuesday                  688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
-Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Monday                   848 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Tuesday                  689 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
 Thursday                 679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Friday                   679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Saturday                 757 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
-Sunday                   650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Saturday                 757 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Sunday                   650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
 ```
 
 
@@ -89,44 +89,44 @@ Sunday                   650 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 7 mins        ██████████████░░░░░░░░░░░   54.98 % 
-Markdown                 1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Figma Design             50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-PHP                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+TypeScript               4 hrs 3 mins        ██████████████░░░░░░░░░░░   57.64 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Figma Design             40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+PHP                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🐱‍💻 Projects: 
-susanti-megah-fe         3 hrs 41 mins       ████████████░░░░░░░░░░░░░   49.07 % 
-Unknown Project          1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-thoriqagfi-portfolio     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-garam-capkapal-api-old   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-garam-capkapal           39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+susanti-megah-fe         3 hrs               ███████████░░░░░░░░░░░░░░   42.77 % 
+thoriqagfi-portfolio     1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
+garam-capkapal-api-old   59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+garam-capkapal           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 💻 Operating System: 
-Mac                      7 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 25 mins (72.28%)
+⏱ AI Coding Time: 5 hrs 3 mins (72.02%)
 
-✍️ 501 lines written by AI, 77 lines written by hand (86.68% AI-written)
+✍️ 414 lines written by AI, 185 lines written by hand (69.12% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 54 AI Prompts
+🧠 10 AI Sessions, 49 AI Prompts
 
-Gemini                   882 lines           ███████████████████████░░   92.16 % 
-Opus                     75 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Gemini                   793 lines           ███████████████████████░░   91.36 % 
+Opus                     75 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.68% of written lines came from AI
-📝 Concise Prompter — average 227 characters per prompt
+🤖 AI-Driven — 69.12% of written lines came from AI
+📝 Concise Prompter — average 181 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 18.14% of changed lines were hand-edited
+🚀 High AI Trust — 22.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,7 +142,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 14:55:26 UTC
+ Last Updated on 04/08/2026 02:44:36 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
