@@ -58,9 +58,9 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C659%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-31%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%203%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,44 +89,44 @@ Sunday                   650 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               4 hrs 3 mins        ██████████████░░░░░░░░░░░   57.64 % 
-Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Figma Design             40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-PHP                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+TypeScript               4 hrs 43 mins       ███████████████░░░░░░░░░░   61.20 % 
+Markdown                 52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Figma Design             48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+PHP                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🐱‍💻 Projects: 
-susanti-megah-fe         3 hrs               ███████████░░░░░░░░░░░░░░   42.77 % 
-thoriqagfi-portfolio     1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-garam-capkapal-api-old   59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Unknown Project          40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-garam-capkapal           22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+susanti-megah-fe         3 hrs               ██████████░░░░░░░░░░░░░░░   38.90 % 
+thoriqagfi-portfolio     2 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   34.20 % 
+garam-capkapal-api-old   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Unknown Project          48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+garam-capkapal           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 💻 Operating System: 
-Mac                      7 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 3 mins (72.02%)
+⏱ AI Coding Time: 5 hrs 25 mins (70.26%)
 
-✍️ 414 lines written by AI, 185 lines written by hand (69.12% AI-written)
+✍️ 454 lines written by AI, 382 lines written by hand (54.31% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 49 AI Prompts
+🧠 13 AI Sessions, 70 AI Prompts
 
-Gemini                   793 lines           ███████████████████████░░   91.36 % 
-Opus                     75 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Gemini                   914 lines           ███████████████████████░░   92.42 % 
+Opus                     75 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 69.12% of written lines came from AI
-📝 Concise Prompter — average 181 characters per prompt
+⚖️ Balanced with AI — 54.31% of written lines came from AI
+📝 Concise Prompter — average 182 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 22.5% of changed lines were hand-edited
+🚀 High AI Trust — 38.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,7 +142,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 18:03:56 UTC
+ Last Updated on 04/08/2026 19:54:23 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
