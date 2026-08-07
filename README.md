@@ -58,6 +58,77 @@
   </div><br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-32%20hrs%208%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1350 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌆 Daytime                1352 commits        ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+🌃 Evening                1594 commits        ████████░░░░░░░░░░░░░░░░░   31.58 % 
+🌙 Night                  751 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   848 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Tuesday                  690 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Wednesday                744 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Thursday                 679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Friday                   679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Saturday                 757 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Sunday                   650 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               4 hrs 49 mins       ███████████████░░░░░░░░░░   60.25 % 
+Markdown                 1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Figma Design             48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+PHP                      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+
+🐱‍💻 Projects: 
+susanti-megah-fe         3 hrs               █████████░░░░░░░░░░░░░░░░   37.52 % 
+thoriqagfi-portfolio     2 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.53 % 
+garam-capkapal-api-old   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Unknown Project          48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+garam-capkapal           16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+
+💻 Operating System: 
+Mac                      8 hrs               █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 5 hrs 30 mins (68.77%)
+
+✍️ 454 lines written by AI, 527 lines written by hand (46.28% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 15 AI Sessions, 74 AI Prompts
+
+Gemini                   914 lines           ███████████████████████░░   92.42 % 
+Opus                     75 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 46.28% of written lines came from AI
+📝 Concise Prompter — average 181 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 44.5% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -71,7 +142,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:12:39 UTC
+ Last Updated on 07/08/2026 03:03:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
