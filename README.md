@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C673%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C673%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20hrs%209%20mins-blue?style=flat)
 
@@ -89,25 +89,25 @@ Sunday                   653 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               54 mins             ██████████░░░░░░░░░░░░░░░   40.23 % 
-Figma Design             40 mins             ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-YAML                     24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+TypeScript               54 mins             ██████████░░░░░░░░░░░░░░░   39.03 % 
+Figma Design             40 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+YAML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Go                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-thoriqagfi-portfolio     1 hr 1 min          ███████████░░░░░░░░░░░░░░   45.22 % 
-Unknown Project          40 mins             ███████░░░░░░░░░░░░░░░░░░   29.83 % 
-go-udemy                 33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+thoriqagfi-portfolio     1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.88 % 
+Unknown Project          40 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+go-udemy                 37 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (31.95%)
+⏱ AI Coding Time: 43 mins (31.0%)
 
 ✍️ 8 lines written by AI, 5 lines written by hand (61.54% AI-written)
 
@@ -140,7 +140,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:41:52 UTC
+ Last Updated on 23/08/2026 20:38:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
