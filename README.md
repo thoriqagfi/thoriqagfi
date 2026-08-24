@@ -89,25 +89,25 @@ Sunday                   653 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               54 mins             ██████████░░░░░░░░░░░░░░░   39.03 % 
-Figma Design             40 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-YAML                     24 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Go                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+TypeScript               54 mins             █████████████░░░░░░░░░░░░   51.83 % 
+YAML                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Go                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Figma Design             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🐱‍💻 Projects: 
-thoriqagfi-portfolio     1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.88 % 
-Unknown Project          40 mins             ███████░░░░░░░░░░░░░░░░░░   28.95 % 
-go-udemy                 37 mins             ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+thoriqagfi-portfolio     1 hr 1 min          ███████████████░░░░░░░░░░   58.26 % 
+go-udemy                 37 mins             █████████░░░░░░░░░░░░░░░░   36.09 % 
+Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 💻 Operating System: 
-Mac                      2 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (31.0%)
+⏱ AI Coding Time: 43 mins (41.16%)
 
 ✍️ 8 lines written by AI, 5 lines written by hand (61.54% AI-written)
 
@@ -140,7 +140,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 18:53:47 UTC
+ Last Updated on 24/08/2026 20:46:53 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
