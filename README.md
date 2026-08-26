@@ -89,41 +89,41 @@ Sunday                   653 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               54 mins             █████████████░░░░░░░░░░░░   51.83 % 
-YAML                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-Go                       9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-Figma Design             5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+TypeScript               55 mins             ███████████████████░░░░░░   74.93 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+Makefile                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Figma Design             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Go                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 
 🐱‍💻 Projects: 
-thoriqagfi-portfolio     1 hr 1 min          ███████████████░░░░░░░░░░   58.26 % 
-go-udemy                 37 mins             █████████░░░░░░░░░░░░░░░░   36.09 % 
-Unknown Project          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+thoriqagfi-portfolio     1 hr 1 min          █████████████████████░░░░   83.51 % 
+go-udemy                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 mins (41.16%)
+⏱ AI Coding Time: 39 mins (53.25%)
 
-✍️ 8 lines written by AI, 5 lines written by hand (61.54% AI-written)
+✍️ 8 lines written by AI, 3 lines written by hand (72.73% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
 Opus                     77 lines            ███████████████████████░░   90.59 % 
 Gemini                   8 lines             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.54% of written lines came from AI
-📝 Concise Prompter — average 448 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+🤖 AI-Driven — 72.73% of written lines came from AI
+📝 Concise Prompter — average 324 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 25.44% of changed lines were hand-edited
 ```
 
@@ -140,7 +140,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:03:38 UTC
+ Last Updated on 26/08/2026 23:03:40 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
