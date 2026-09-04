@@ -89,43 +89,41 @@ Sunday                   656 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 59 mins       ██████████████████████░░░   86.26 % 
-Markdown                 23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-PHP                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               2 hrs 3 mins        ██████████████████████░░░   87.43 % 
+Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-susanti-megah-fe         3 hrs 1 min         ██████████████████████░░░   87.04 % 
-garam-capkapal-api-old   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-garam-capkapal           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+susanti-megah-fe         2 hrs 2 mins        ██████████████████████░░░   86.94 % 
+Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+garam-capkapal           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+garam-capkapal-api-old   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      3 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (91.96%)
+⏱ AI Coding Time: 1 hr 52 mins (79.57%)
 
-✍️ 1,277 lines written by AI, 80 lines written by hand (94.1% AI-written)
+✍️ 478 lines written by AI, 23 lines written by hand (95.41% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 76 AI Prompts
+🧠 6 AI Sessions, 57 AI Prompts
 
-Gemini                   1,280 lines         █████████████████████████   98.16 % 
-Opus                     24 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Gemini                   475 lines           ████████████████████████░   95.19 % 
+Opus                     24 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.1% of written lines came from AI
-📝 Concise Prompter — average 345 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 6.86% of changed lines were hand-edited
+🤖 AI-Driven — 95.41% of written lines came from AI
+📝 Concise Prompter — average 274 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 6.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +139,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 19:07:06 UTC
+ Last Updated on 04/09/2026 22:25:09 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
