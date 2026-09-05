@@ -89,41 +89,38 @@ Sunday                   656 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               2 hrs 3 mins        ██████████████████████░░░   87.43 % 
-Other                    17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               1 hr 9 mins         ████████████████████░░░░░   79.83 % 
+Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 
 🐱‍💻 Projects: 
-susanti-megah-fe         2 hrs 2 mins        ██████████████████████░░░   86.94 % 
-Unknown Project          17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-garam-capkapal           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-garam-capkapal-api-old   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+susanti-megah-fe         1 hr 9 mins         ████████████████████░░░░░   79.83 % 
+Unknown Project          17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+garam-capkapal           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 💻 Operating System: 
-Mac                      2 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 52 mins (79.57%)
+⏱ AI Coding Time: 1 hr 6 mins (75.95%)
 
-✍️ 478 lines written by AI, 23 lines written by hand (95.41% AI-written)
+✍️ 164 lines written by AI, 12 lines written by hand (93.18% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 57 AI Prompts
+🧠 4 AI Sessions, 43 AI Prompts
 
-Gemini                   475 lines           ████████████████████████░   95.19 % 
-Opus                     24 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+Gemini                   184 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.41% of written lines came from AI
-📝 Concise Prompter — average 274 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 6.38% of changed lines were hand-edited
+🤖 AI-Driven — 93.18% of written lines came from AI
+📝 Concise Prompter — average 212 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 6.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,7 +136,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 20:14:05 UTC
+ Last Updated on 05/09/2026 22:16:44 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
