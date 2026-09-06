@@ -89,38 +89,19 @@ Sunday                   656 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 9 mins         ████████████████████░░░░░   79.83 % 
-Other                    17 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+Other                    17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-susanti-megah-fe         1 hr 9 mins         ████████████████████░░░░░   79.83 % 
-Unknown Project          17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
-garam-capkapal           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Unknown Project          17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 6 mins (75.95%)
-
-✍️ 164 lines written by AI, 12 lines written by hand (93.18% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 43 AI Prompts
-
-Gemini                   184 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.18% of written lines came from AI
-📝 Concise Prompter — average 212 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 6.12% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -136,7 +117,7 @@ Dart                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2026 20:18:24 UTC
+ Last Updated on 06/09/2026 23:46:32 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
