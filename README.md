@@ -58,9 +58,9 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C678%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C681%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-48%20hrs%2020%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,19 +89,43 @@ Sunday                   656 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    17 mins             █████████████████████████   100.00 % 
+Other                    56 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Go                       52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+TypeScript               40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.72 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Git Config               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🐱‍💻 Projects: 
-Unknown Project          17 mins             █████████████████████████   100.00 % 
+susanti-megah-be         1 hr 35 mins        ███████████░░░░░░░░░░░░░░   44.66 % 
+susanti-megah-fe         48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+garam-capkapal           27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Unknown Project          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+garam-capkapal-api-old   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      3 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 26 mins (68.66%)
+
+✍️ 192 lines written by AI, 35 lines written by hand (84.58% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 40 AI Prompts
+
+Gemini                   325 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 84.58% of written lines came from AI
+📝 Concise Prompter — average 408 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 14.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +141,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 19:35:55 UTC
+ Last Updated on 08/09/2026 22:40:20 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
