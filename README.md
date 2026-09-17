@@ -58,9 +58,9 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C693%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C694%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2051%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,43 +89,43 @@ Sunday                   656 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               5 hrs 21 mins       █████████████░░░░░░░░░░░░   52.73 % 
-Figma Design             1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+TypeScript               4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   45.91 % 
+Figma Design             1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Other                    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 🐱‍💻 Projects: 
-gibeon-refactor          4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.27 % 
-Unknown Project          2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-susanti-megah-fe         2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-gbi-gibeon-mobile-app    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-susanti-megah-be         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+gibeon-refactor          5 hrs 5 mins        ██████████████░░░░░░░░░░░   55.45 % 
+Unknown Project          2 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.98 % 
+gbi-gibeon-mobile-app    57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+susanti-megah-fe         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+susanti-megah-be         8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 💻 Operating System: 
-Mac                      10 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 39 mins (65.42%)
+⏱ AI Coding Time: 5 hrs 30 mins (59.87%)
 
-✍️ 648 lines written by AI, 14 lines written by hand (97.89% AI-written)
+✍️ 830 lines written by AI, 36 lines written by hand (95.84% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 100 AI Prompts
+🧠 22 AI Sessions, 97 AI Prompts
 
-Gemini                   832 lines           █████████████████████████   100.00 % 
+Gemini                   1,019 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.89% of written lines came from AI
-📄 Detailed Prompter — average 1,039 characters per prompt
+🤖 AI-Driven — 95.84% of written lines came from AI
+📄 Detailed Prompter — average 1,103 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.26% of changed lines were hand-edited
+🚀 High AI Trust — 4.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +141,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 18:14:51 UTC
+ Last Updated on 17/09/2026 21:20:18 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
