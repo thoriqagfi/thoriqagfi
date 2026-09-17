@@ -58,9 +58,75 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C691%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C693%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2012%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1384 commits        ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+🌆 Daytime                1372 commits        ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌃 Evening                1625 commits        ████████░░░░░░░░░░░░░░░░░   31.64 % 
+🌙 Night                  755 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   853 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Tuesday                  705 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Wednesday                767 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Thursday                 696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   688 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Saturday                 771 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Sunday                   656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+TypeScript               5 hrs 21 mins       █████████████░░░░░░░░░░░░   52.73 % 
+Figma Design             1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Other                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
+Markdown                 40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+
+🐱‍💻 Projects: 
+gibeon-refactor          4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.27 % 
+Unknown Project          2 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
+susanti-megah-fe         2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+gbi-gibeon-mobile-app    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+susanti-megah-be         18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+
+💻 Operating System: 
+Mac                      10 hrs 10 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 39 mins (65.42%)
+
+✍️ 648 lines written by AI, 14 lines written by hand (97.89% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 100 AI Prompts
+
+Gemini                   832 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.89% of written lines came from AI
+📄 Detailed Prompter — average 1,039 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 3.26% of changed lines were hand-edited
+```
 
 **I Mostly Code in TypeScript** 
 
@@ -75,7 +141,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:13:10 UTC
+ Last Updated on 17/09/2026 00:22:58 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
