@@ -89,43 +89,42 @@ Sunday                   656 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               3 hrs 16 mins       █████████████░░░░░░░░░░░░   50.75 % 
-Figma Design             1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Figma Design             1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   36.19 % 
+TypeScript               1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   34.76 % 
+Other                    49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 🐱‍💻 Projects: 
-gibeon-refactor          3 hrs 45 mins       ███████████████░░░░░░░░░░   58.07 % 
-Unknown Project          2 hrs 30 mins       ██████████░░░░░░░░░░░░░░░   38.81 % 
-gbi-gibeon-mobile-app    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-susanti-megah-fe         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-gibeon-church-pwa        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Unknown Project          2 hrs 29 mins       █████████████░░░░░░░░░░░░   53.27 % 
+gibeon-refactor          2 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.13 % 
+gbi-gibeon-mobile-app    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+susanti-megah-fe         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Mac                      6 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 23 mins (52.44%)
+⏱ AI Coding Time: 1 hr 50 mins (39.35%)
 
-✍️ 528 lines written by AI, 34 lines written by hand (93.95% AI-written)
+✍️ 367 lines written by AI, 26 lines written by hand (93.38% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 58 AI Prompts
+🧠 8 AI Sessions, 30 AI Prompts
 
-Gemini                   664 lines           █████████████████████████   100.00 % 
+Gemini                   383 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.95% of written lines came from AI
-📄 Detailed Prompter — average 1,126 characters per prompt
+🤖 AI-Driven — 93.38% of written lines came from AI
+📄 Detailed Prompter — average 876 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.21% of changed lines were hand-edited
+🚀 High AI Trust — 7.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +140,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 16:29:53 UTC
+ Last Updated on 21/09/2026 22:00:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
