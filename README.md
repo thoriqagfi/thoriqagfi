@@ -89,26 +89,26 @@ Sunday                   656 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Figma Design             1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   36.19 % 
-TypeScript               1 hr 37 mins        █████████░░░░░░░░░░░░░░░░   34.76 % 
-Other                    49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+TypeScript               1 hr 37 mins        ████████████████░░░░░░░░░   64.22 % 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Figma Design             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 29 mins       █████████████░░░░░░░░░░░░   53.27 % 
-gibeon-refactor          2 hrs 1 min         ███████████░░░░░░░░░░░░░░   43.13 % 
-gbi-gibeon-mobile-app    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-susanti-megah-fe         3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+gibeon-refactor          2 hrs 1 min         ████████████████████░░░░░   79.67 % 
+Unknown Project          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+gbi-gibeon-mobile-app    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+susanti-megah-fe         3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Mac                      4 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 50 mins (39.35%)
+⏱ AI Coding Time: 1 hr 50 mins (72.68%)
 
 ✍️ 367 lines written by AI, 26 lines written by hand (93.38% AI-written)
 
@@ -140,7 +140,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 18:15:45 UTC
+ Last Updated on 22/09/2026 21:24:06 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
