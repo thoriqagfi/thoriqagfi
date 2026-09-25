@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C694%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C694%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2051%20mins-blue?style=flat)
 
@@ -89,13 +89,19 @@ Sunday                   657 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    5 mins              █████████████████████████   100.00 % 
+Other                    17 mins             █████████████░░░░░░░░░░░░   53.62 % 
+TypeScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+PHP                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-Unknown Project          5 mins              █████████████████████████   100.00 % 
+Unknown Project          17 mins             █████████████░░░░░░░░░░░░   53.62 % 
+garam-capkapal           12 mins             █████████░░░░░░░░░░░░░░░░   37.63 % 
+garam-capkapal-api-old   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +123,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 20:09:39 UTC
+ Last Updated on 25/09/2026 23:24:53 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
