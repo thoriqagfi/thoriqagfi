@@ -89,19 +89,19 @@ Sunday                   659 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    17 mins             █████████████░░░░░░░░░░░░   53.62 % 
-TypeScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-YAML                     4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-PHP                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other                    55 mins             ████████████████████░░░░░   78.16 % 
+TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+PHP                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🐱‍💻 Projects: 
-Unknown Project          17 mins             █████████████░░░░░░░░░░░░   53.62 % 
-garam-capkapal           12 mins             █████████░░░░░░░░░░░░░░░░   37.63 % 
-garam-capkapal-api-old   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Unknown Project          55 mins             ████████████████████░░░░░   78.16 % 
+garam-capkapal           12 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+garam-capkapal-api-old   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,7 +123,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 19:36:38 UTC
+ Last Updated on 29/09/2026 00:29:55 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
