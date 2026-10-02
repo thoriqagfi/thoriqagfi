@@ -89,19 +89,14 @@ Sunday                   660 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    4 hrs 2 mins        ████████████████████░░░░░   80.02 % 
-Figma Design             45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
-TypeScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-PHP                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other                    4 hrs 49 mins       ██████████████████████░░░   86.49 % 
+Figma Design             45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 
 🐱‍💻 Projects: 
-Unknown Project          4 hrs 48 mins       ████████████████████████░   94.90 % 
-garam-capkapal           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-garam-capkapal-api-old   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Unknown Project          5 hrs 34 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,7 +118,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 17:57:33 UTC
+ Last Updated on 02/10/2026 22:09:50 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
