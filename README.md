@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C695%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C695%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2051%20mins-blue?style=flat)
 
@@ -89,13 +89,14 @@ Sunday                   667 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    2 hrs 36 mins       █████████████████████████   100.00 % 
+Other                    1 hr 11 mins        ██████████████████████░░░   87.17 % 
+Figma Design             10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 36 mins       █████████████████████████   100.00 % 
+Unknown Project          1 hr 22 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 36 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +118,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2026 20:21:22 UTC
+ Last Updated on 14/10/2026 23:26:26 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
