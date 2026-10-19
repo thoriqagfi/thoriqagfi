@@ -89,19 +89,39 @@ Sunday                   758 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Figma Design             50 mins             █████████████████████████   100.00 % 
+Figma Design             50 mins             ████████████████░░░░░░░░░   62.25 % 
+Other                    29 mins             █████████░░░░░░░░░░░░░░░░   35.86 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-Unknown Project          50 mins             █████████████████████████   100.00 % 
+Unknown Project          1 hr 19 mins        █████████████████████████   98.10 % 
+susanti-megah-fe         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (0.49%)
+
+✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
+
+🔤 46,696 Input Tokens, 2,819 Output Tokens
+
+💵 $0.24 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📚 Verbose Prompter — average 2,525 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +137,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 17:09:42 UTC
+ Last Updated on 19/10/2026 22:22:15 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
