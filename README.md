@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C696%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2052%20mins-blue?style=flat)
 
@@ -89,23 +89,26 @@ Sunday                   764 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Figma Design             50 mins             ████████████████░░░░░░░░░   62.25 % 
-Other                    29 mins             █████████░░░░░░░░░░░░░░░░   35.86 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Figma Design             50 mins             ███████████████░░░░░░░░░░   58.34 % 
+Other                    29 mins             ████████░░░░░░░░░░░░░░░░░   33.61 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 19 mins        █████████████████████████   98.10 % 
-susanti-megah-fe         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Unknown Project          1 hr 19 mins        ███████████████████████░░   91.95 % 
+garam-capkapal           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+susanti-megah-fe         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+garam-capkapal-api-old   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Mac                      1 hr 21 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.49%)
+⏱ AI Coding Time: 0 secs (0.46%)
 
 ✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
 
@@ -137,7 +140,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 20:12:06 UTC
+ Last Updated on 20/10/2026 23:16:37 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
