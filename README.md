@@ -89,26 +89,26 @@ Sunday                   764 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Figma Design             50 mins             ███████████████░░░░░░░░░░   58.34 % 
-Other                    29 mins             ████████░░░░░░░░░░░░░░░░░   33.61 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Figma Design             40 mins             █████████████░░░░░░░░░░░░   52.59 % 
+Other                    29 mins             ██████████░░░░░░░░░░░░░░░   38.25 % 
+Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 19 mins        ███████████████████████░░   91.95 % 
-garam-capkapal           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-susanti-megah-fe         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-garam-capkapal-api-old   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+Unknown Project          1 hr 9 mins         ███████████████████████░░   90.84 % 
+garam-capkapal           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
+susanti-megah-fe         1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+garam-capkapal-api-old   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Mac                      1 hr 26 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.46%)
+⏱ AI Coding Time: 0 secs (0.52%)
 
 ✍️ 0 lines written by AI, 6 lines written by hand (0.0% AI-written)
 
@@ -140,7 +140,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 20:16:13 UTC
+ Last Updated on 21/10/2026 23:23:52 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
