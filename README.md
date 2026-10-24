@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C697%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C698%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2052%20mins-blue?style=flat)
 
@@ -89,29 +89,29 @@ Sunday                   764 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Figma Design             40 mins             ███████░░░░░░░░░░░░░░░░░░   29.33 % 
-Other                    37 mins             ███████░░░░░░░░░░░░░░░░░░   27.69 % 
-TypeScript               24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Go                       23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+TypeScript               1 hr 28 mins        ████████████░░░░░░░░░░░░░   49.92 % 
+Other                    37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
+Go                       23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 18 mins        ██████████████░░░░░░░░░░░   57.03 % 
-susanti-megah-be         28 mins             █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-susanti-megah-fe         24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-garam-capkapal           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-garam-capkapal-api-old   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+susanti-megah-fe         1 hr 44 mins        ███████████████░░░░░░░░░░   59.16 % 
+Unknown Project          38 mins             █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+susanti-megah-be         28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+garam-capkapal           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+garam-capkapal-api-old   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.29%)
+⏱ AI Coding Time: 0 secs (0.23%)
 
-✍️ 0 lines written by AI, 187 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 477 lines written by hand (0.0% AI-written)
 
 🔤 46,696 Input Tokens, 2,819 Output Tokens
 
@@ -141,7 +141,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 17:35:13 UTC
+ Last Updated on 24/10/2026 20:39:04 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
