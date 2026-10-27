@@ -65,17 +65,17 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2192 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
+🌞 Morning                2192 commits        ████████░░░░░░░░░░░░░░░░░   31.30 % 
 🌆 Daytime                1734 commits        ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-🌃 Evening                2176 commits        ████████░░░░░░░░░░░░░░░░░   31.08 % 
-🌙 Night                  900 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+🌃 Evening                2176 commits        ████████░░░░░░░░░░░░░░░░░   31.07 % 
+🌙 Night                  901 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   1091 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
 Tuesday                  999 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Wednesday                988 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Wednesday                989 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
 Thursday                 1126 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 Friday                   1031 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 Saturday                 1003 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
@@ -89,21 +89,19 @@ Sunday                   764 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-TypeScript               1 hr 26 mins        ███████████████░░░░░░░░░░   59.52 % 
-Go                       23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+TypeScript               1 hr 26 mins        ███████████████░░░░░░░░░░   58.03 % 
+Go                       23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Other                    18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🐱‍💻 Projects: 
-susanti-megah-fe         1 hr 43 mins        ██████████████████░░░░░░░   70.55 % 
-susanti-megah-be         28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-garam-capkapal           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-garam-capkapal-api-old   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+susanti-megah-fe         1 hr 43 mins        █████████████████░░░░░░░░   68.79 % 
+susanti-megah-be         28 mins             █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 
 💻 Operating System: 
-Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,7 +123,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 16:08:13 UTC
+ Last Updated on 27/10/2026 20:48:05 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
