@@ -89,19 +89,17 @@ Sunday                   767 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    3 hrs 11 mins       ████████████░░░░░░░░░░░░░   47.91 % 
-TypeScript               2 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.17 % 
-Go                       23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Figma Design             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Other                    3 hrs 2 mins        █████████████░░░░░░░░░░░░   52.59 % 
+TypeScript               2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Figma Design             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.65 % 
-susanti-megah-fe         2 hrs 52 mins       ███████████░░░░░░░░░░░░░░   43.21 % 
-susanti-megah-be         28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Unknown Project          3 hrs 9 mins        ██████████████░░░░░░░░░░░   54.54 % 
+susanti-megah-fe         2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.46 % 
 
 💻 Operating System: 
-Mac                      6 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,7 +121,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 17:00:47 UTC
+ Last Updated on 29/10/2026 22:48:31 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
