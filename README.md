@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C699%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C699%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2052%20mins-blue?style=flat)
 
@@ -89,17 +89,18 @@ Sunday                   767 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    3 hrs 2 mins        █████████████░░░░░░░░░░░░   52.59 % 
-TypeScript               2 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.83 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Figma Design             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Other                    3 hrs 2 mins        █████████████░░░░░░░░░░░░   53.32 % 
+TypeScript               2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.97 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Figma Design             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 9 mins        ██████████████░░░░░░░░░░░   54.54 % 
-susanti-megah-fe         2 hrs 38 mins       ███████████░░░░░░░░░░░░░░   45.46 % 
+Unknown Project          3 hrs 9 mins        ██████████████░░░░░░░░░░░   55.29 % 
+susanti-megah-fe         2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
 
 💻 Operating System: 
-Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -121,7 +122,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 19:21:06 UTC
+ Last Updated on 30/10/2026 23:49:12 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
