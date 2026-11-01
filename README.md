@@ -58,7 +58,7 @@
   </div><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C699%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C699%20hrs%2059%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2052%20mins-blue?style=flat)
 
@@ -89,18 +89,18 @@ Sunday                   767 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    3 hrs 2 mins        █████████████░░░░░░░░░░░░   53.32 % 
-TypeScript               2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.97 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Figma Design             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    3 hrs 2 mins        ████████████████░░░░░░░░░   65.40 % 
+TypeScript               1 hr 25 mins        ████████░░░░░░░░░░░░░░░░░   30.41 % 
+Figma Design             6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 9 mins        ██████████████░░░░░░░░░░░   55.29 % 
-susanti-megah-fe         2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.71 % 
+Unknown Project          3 hrs 9 mins        █████████████████░░░░░░░░   67.82 % 
+susanti-megah-fe         1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   32.18 % 
 
 💻 Operating System: 
-Mac                      5 hrs 43 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,7 +122,7 @@ Blade                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 21:21:57 UTC
+ Last Updated on 01/11/2026 01:02:30 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
